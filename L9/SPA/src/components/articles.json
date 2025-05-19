@@ -1,6 +1,6 @@
 [
- {"id": 3, "title":"FUJI", "fulltext":"FUJI","imageurl":"../img/FUJI4.jpg"},
- {"id": 4, "title":"another FUJI", "fulltext":"FUJI","imageurl":"../img/FUJI1.jpeg"},
- {"id": 2, "title":"another FUJI", "fulltext":"FUJI","imageurl":"../img/FUJI2.jpeg"},
- {"id": 5, "title":"another FUJI", "fulltext":"FUJI","imageurl":"../img/FUJI3.jpg"}
+ {"id": 3, "title":"FUJI", "fulltext":"FUJI","imageurl":"img/FUJI4.jpg"},
+ {"id": 4, "title":"another FUJI", "fulltext":"FUJI","imageurl":"img/FUJI1.jpeg"},
+ {"id": 2, "title":"another FUJI", "fulltext":"FUJI","imageurl":"img/FUJI2.jpeg"},
+ {"id": 5, "title":"another FUJI", "fulltext":"FUJI","imageurl":"img/FUJI3.jpg"}
 ]
